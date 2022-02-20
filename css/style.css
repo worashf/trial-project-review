@@ -36,4 +36,24 @@ background-color: #fff;
     
 }
 
+#tribute-info h2{
+text-align: center;
+padding:50px;
+}
 
+#tribute-info ul{
+    list-style-type: disc;
+    display:table;
+    margin: 0 auto;
+    text-align: left;
+
+
+    
+}
+ul li{
+    text-align: left;
+    margin-left: 10%;
+}
+#tribute-text{
+    
+}
