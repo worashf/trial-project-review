@@ -53,7 +53,23 @@ padding:50px;
 ul li{
     text-align: left;
     margin-left: 10%;
+    padding: 10px;
+    font-size: 18px;
 }
-#tribute-text{
+#tribute-text {
+    display:table;
+    margin: 0 auto;
+    text-align: left;
     
+}
+#tribute-text P{
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+#link h4{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 20px ;
 }
