@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main{
+    margin: 20px auto;
+    background: lightgray;
+}
+#title{
+text-align: center;
+padding-top: 50px;
+font-size: 50px;
+font-weight: bold;
+}
+#title-description{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+#img-div{
+    
+background-color: #fff;
+}
+#image{
+    display: block;
+    width: 95%;
+    margin: 20px auto;
+    padding: 5px 50px;
+}
+
+#img-caption{
+    margin: 20px auto;
+    padding: 5px 50px;
+    
+}
+
+
